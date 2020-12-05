@@ -1,26 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#180
-
-
-# In[4]:
-
-
 low_prices  = [100, 200, 400, 800, 1000]
 high_prices = [150, 300, 430, 880, 1000]
 
 
-# In[5]:
 
 
 volatility = [] # 여기에 저장
 
 
-# In[12]:
+
 
 
 for i in range(len(low_prices)): # range 그냥 (1,6,1)로 하니까 오류가 나온다 # i가 lowprice의 길이 까지
@@ -28,7 +15,7 @@ for i in range(len(low_prices)): # range 그냥 (1,6,1)로 하니까 오류가 �
 print(volatility)
 
 
-# In[ ]:
+
 
 
 

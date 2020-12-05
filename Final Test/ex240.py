@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#240
-
-
-# In[1]:
-
 
 def 함수0(num) :
     return num * 2
@@ -24,7 +13,7 @@ c = 함수2(2)
 print(c)
 
 
-# In[ ]:
+
 
 
 # num = 2 이므로 

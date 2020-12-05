@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#260
-
-
-# In[5]:
-
-
+# 여기부터 좀 어려워지네
 class OMG : 
     def print() :
         print("Oh my god")

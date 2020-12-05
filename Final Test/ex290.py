@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#290
-
-
-# In[2]:
-
 
 class 부모: # 클래스 
   def __init__(self): # 생성자

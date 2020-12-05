@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#200
-
-
-# In[3]:
 
 
 ohlc = [["open", "high", "low", "close"],
@@ -16,13 +6,6 @@ ohlc = [["open", "high", "low", "close"],
         [300, 310, 300, 310]] # 3일차
 
 
-# In[ ]:
-
-
-
-
-
-# In[10]:
 
 
 total = 0 # 전체 이익 초기값
@@ -32,7 +15,7 @@ for daily in ohlc[1:]: # 첫 줄 건너뜀
 print(total)
 
 
-# In[ ]:
+
 
 
 
